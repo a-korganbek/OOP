@@ -1,0 +1,2 @@
+Missing operand: 7*
+Invalid number: 8+a
